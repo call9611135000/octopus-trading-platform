@@ -4,7 +4,7 @@
 
 Octopus is a Python/Tkinter desktop charting application being developed into an independent, modular trading platform. Its roadmap includes installable extensions such as Magic Algo.
 
-**Current status:** V060 is a development preview, not a production trading system. Broker order execution, a full module installer, packaged Windows installer, and advanced backtesting are not implemented or validated. Do not rely on Octopus for live trading.
+**Current status:** V082 is the latest user-confirmed stable chart baseline. The source is available under [`releases/Octopus_V082_Live_Candle_Recovery.pyw`](releases/Octopus_V082_Live_Candle_Recovery.pyw). The application remains a development preview: broker order execution is disabled, public market data may be delayed, and Windows runtime behavior requires local verification. Do not rely on it for live trading.
 
 ## Development priorities
 
